@@ -24,8 +24,55 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
+![serverside](./img7/m1.png)
+
+The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
+
+![serverside](./img7/m2.png)
+
+It displays the following menu and select 2 for Website Attack Vectors:
+
+![serverside](./img7/m3.png)
+
+The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
+
+![serverside](./img7/m4.png)
 
 
+The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+
+![serverside](./img7/m5.png)
+
+It shows the following screen in which the ip address of the attacker need to be given which is the default value:
+
+![serverside](./img7/m6.png)
+
+
+It shows the following screen in which the option Google can be selected:
+
+![serverside](./img7/m7.png)
+
+
+SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
+
+![serverside](./img7/m8.png)
+
+
+In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
+
+![serverside](./img7/m10.png)
+
+
+
+SET logs the information regarding the Google credentials:
+
+![serverside](./img7/m9.png)
+
+
+
+SET logs the information in the xml file under /root/.set directory:
+
+![serverside](./img7/m1.png)
 
 
 
