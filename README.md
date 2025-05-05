@@ -72,7 +72,8 @@ SET logs the information regarding the Google credentials:
 
 SET logs the information in the xml file under /root/.set directory:
 
-![serverside](./img7/m1.png)
+![image](https://github.com/user-attachments/assets/bbc0267f-26aa-4ba4-b52b-6198c5ad7969)
+
 
 
 
